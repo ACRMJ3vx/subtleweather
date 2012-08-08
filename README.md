@@ -1,0 +1,4 @@
+subtleweather
+=============
+
+creates simple rpms
